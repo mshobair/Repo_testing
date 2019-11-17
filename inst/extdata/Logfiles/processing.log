@@ -1,0 +1,15 @@
+TRACE [2019-11-17 03:01:29] Logging to C:/Users/shobarium/Documents/Projects/Workflow_design/Repo_testing/mtcars20/inst/extdata/Logfiles/processing.log
+TRACE [2019-11-17 03:01:29] Processing data
+TRACE [2019-11-17 03:01:29] Reading yaml configuration
+TRACE [2019-11-17 03:01:29] Found C:/Users/shobarium/Documents/Projects/Workflow_design/Repo_testing/mtcars20/data-raw/subsetCars.Rmd
+TRACE [2019-11-17 03:01:29] Processing 1 of 1: C:/Users/shobarium/Documents/Projects/Workflow_design/Repo_testing/mtcars20/data-raw/subsetCars.Rmd
+
+TRACE [2019-11-17 03:01:30] 1 data set(s) created by subsetCars.Rmd
+TRACE [2019-11-17 03:01:30] NEWS.md file not found, creating!
+TRACE [2019-11-17 03:01:30] NEWS.md file found, updating!
+TRACE [2019-11-17 03:01:33] Saving to data
+TRACE [2019-11-17 03:01:33] Copied documentation to C:/Users/shobarium/Documents/Projects/Workflow_design/Repo_testing/mtcars20/R/mtcars20.R
+TRACE [2019-11-17 03:01:33] Done
+TRACE [2019-11-17 03:01:33] DataPackageR succeeded
+TRACE [2019-11-17 03:01:33] Building documentation
+TRACE [2019-11-17 03:01:34] Building package

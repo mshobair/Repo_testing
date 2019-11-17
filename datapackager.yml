@@ -1,0 +1,7 @@
+configuration:
+  files:
+    subsetCars.Rmd:
+      enabled: yes
+  objects: cars_over_20
+  render_root:
+    tmp: '714961'
